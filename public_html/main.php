@@ -294,7 +294,7 @@ tr:nth-child(odd) {
 <div id="ex11" style="display: none;">
   <form id="quiz11" name="quiz11">
   <div class="quiz">
-  <h4>Why do we do control surface checks?</h4>
+  <h4>Why is control surface checks important?</h4>
   <input type="radio" id="b1" name="q11" value="1">To reduce aerodynamic drag<br>
   <input type="radio" id="b2" name="q11" value="2">To ensure control surfaces can deflect to the appropriate angles<br>
   <input type="radio" id="b3" name="q11" value="3">To ensure even distribution of weight across the zip<br>
